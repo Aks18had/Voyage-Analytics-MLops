@@ -131,6 +131,7 @@ python app.py
 * User-friendly dashboard
 * Scalable deployment design
 * Automated workflow simulation
+* Interactive Power BI dashboard for business insights and data visualization
 
 ---
 
